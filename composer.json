@@ -1,0 +1,13 @@
+{
+    "name": "mhdpauzi/php-xendit",
+    "authors": [
+        {
+            "name": "Muhammad Pauzi",
+            "email": "muhammadpauzi200@gmail.com"
+        }
+    ],
+    "require": {
+        "xendit/xendit-php": "^2.19",
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
