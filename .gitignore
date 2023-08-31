@@ -2,3 +2,4 @@ vendor/
 .env
 
 webhooks/*
+!webhooks/webhook.json

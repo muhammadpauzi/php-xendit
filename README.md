@@ -1,4 +1,4 @@
-# instalations
+# Installation
 
 - clone this repo or just download it
 - `composer update`
